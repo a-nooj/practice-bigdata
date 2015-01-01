@@ -1,4 +1,4 @@
-song-detector
+practice-bigdata
 =============
 
-guesses name of song based on 15-second snippet
+random practice projects in python
